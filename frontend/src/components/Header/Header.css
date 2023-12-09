@@ -1,0 +1,9 @@
+.Navleft{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+.Navleft a{
+    margin-right: 10px;
+}

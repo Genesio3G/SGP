@@ -1,0 +1,15 @@
+.row{
+    display: flex;
+    position: relative;
+}
+.top{
+       top: 50px;
+    }
+    .btn-group{
+        display: flex;
+        position: relative;
+        top: 10px;
+    }
+    .btn{
+        margin: auto 10px;
+    }
